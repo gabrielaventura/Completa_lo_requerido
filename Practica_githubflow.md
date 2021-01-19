@@ -6,8 +6,8 @@ Indice:
 
 
 
-Contenido:
-
+Contenido: 
+*Este documento trata sobre los generos musicales y sus exponentes, en los cuales encontrara desde   opiniones de generos musicales, hasta algunos compositores o datos interesantes y tambien gustos propios de nuestros escritores.*
 
 
 Generos_Fav:
