@@ -39,7 +39,11 @@ Instrumentos:
 
 
 Generos_New(2000-2020):
-
+1. 2000- Reguetón
+2. 2005- Pop Music
+3. 2010- Dubstep - Electrónica
+4. 2015- Future Funk
+5. 2020- Kpop - Trap
 
 
 Generos_DomRep:
