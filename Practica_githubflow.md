@@ -39,7 +39,11 @@ Canciones_Fav:
 
 Generos_NotFav:
 
-
+- **Reggaeton**
+- **Baladas**
+- **Boleros**
+- **Kpop**
+- **Salsa**
 
 Artistas_NotFav:
 
