@@ -17,19 +17,19 @@ Generos_Fav:
 
 Artistas_Fav:
 
-*- Rick Astrey*
+- *Rick Astrey*
 
 ![Artista1](https://imagenes.20minutos.es/uploads/imagenes/2020/06/19/rick-astley-en-su-cancion-never-gonna-give-you-up.gif)
 
-*- Michael Jackson*
+- *Michael Jackson*
 
 ![Artista2](https://www.mondosonoro.com/wp-content/uploads/2015/03/michael-jackson.jpg)
 
-*- Sandy & Papo*
+- *Sandy & Papo*
 
 ![Artista3](https://i.ytimg.com/vi/3dscakGmOxg/maxresdefault.jpg)
 
-*- Juan Luis Guerra*
+- *Juan Luis Guerra*
 
 ![Artista4](https://storage.googleapis.com/mmc-elcaribe-bucket/uploads/2020/02/ef9e184d-juan-luis-guerra-5e49bb7c48340.jpg)
 
