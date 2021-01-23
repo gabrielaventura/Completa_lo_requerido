@@ -27,7 +27,7 @@ Artistas_Fav:
 ![Artista3](https://i.ytimg.com/vi/3dscakGmOxg/maxresdefault.jpg)
 
 *- Juan Luis Guerra*
-![Artista4](https://storage.googleapis.com/mmc-elcaribe-bucket/uploads/2020/02/ef9e184d-juan-luis-guerra-5e49bb7c48340.jpg)
+![Artista4](https://rosemarynews.com/wp-content/uploads/sites/55/2020/06/Juan-Luis-Guerra-3.jpg)
 
 Canciones_Fav:
 
