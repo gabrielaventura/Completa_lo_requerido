@@ -54,7 +54,10 @@ Canciones_NotFav:
 
 
 Instrumentos:
-
++ **Batería**
++ **Bajo eléctrico**
++ **Guitarra eléctrica**
++ **Teclado**
 
 
 Generos_New(2000-2020):
