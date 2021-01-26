@@ -1,4 +1,6 @@
+
 Titulo: 
+
 Indice:
 1. Titulo
 2. Indice
@@ -24,7 +26,7 @@ Indice:
 22. Opinion_Musical
 
 Contenido: 
-*Este documento trata sobre los generos musicales y sus exponentes, en los cuales encontrara desde   opiniones de generos musicales, hasta algunos compositores o datos interesantes y tambien gustos propios de nuestros escritores.*
+*Este documento trata sobre los generos musicales y sus exponentes, en los cuales encontrara desde opiniones de generos musicales, hasta algunos compositores o datos interesantes y tambien gustos propios de nuestros escritores.*
 
 
 Generos_Fav:
@@ -51,6 +53,11 @@ Artistas_Fav:
 
 Canciones_Fav:
 
+- **I hate everything about you**
+- **PRBLMS**
+- **Simon Says**
+- **Lonely Again**
+- **idfc**
 
 
 Generos_NotFav:
