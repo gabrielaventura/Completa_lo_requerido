@@ -34,8 +34,11 @@ Artistas_Fav:
 ![Artista4](https://storage.googleapis.com/mmc-elcaribe-bucket/uploads/2020/02/ef9e184d-juan-luis-guerra-5e49bb7c48340.jpg)
 
 Canciones_Fav:
-
-
+**2- I hate everything about you**
+**5- PRBLMS**
+**3- Simon Says**
+**4- Lonely Again**
+**1- idfc**
 
 Generos_NotFav:
 
