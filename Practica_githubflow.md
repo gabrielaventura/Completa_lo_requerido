@@ -69,7 +69,9 @@ Generos_New(2000-2020):
 
 
 Generos_DomRep:
-
+-*El merengue*
+-*La bachata*
+-*El son*
 
 
 Primer_Musico:
