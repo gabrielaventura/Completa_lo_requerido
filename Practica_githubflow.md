@@ -19,19 +19,19 @@ Artistas_Fav:
 
 - *Rick Astrey*
 
-![Artista1](https://imagenes.20minutos.es/uploads/imagenes/2020/06/19/rick-astley-en-su-cancion-never-gonna-give-you-up.gif)
+![Artista1](https://imagenes.20minutos.es/uploads/imagenes/2020/06/19/rick-astley-en-su-cancion-never-gonna-give-you-up.gif =400x)
 
 - *Michael Jackson*
 
-![Artista2](https://www.mondosonoro.com/wp-content/uploads/2015/03/michael-jackson.jpg)
+![Artista2](https://www.mondosonoro.com/wp-content/uploads/2015/03/michael-jackson.jpg =400x)
 
 - *Sandy & Papo*
 
-![Artista3](https://i.ytimg.com/vi/3dscakGmOxg/maxresdefault.jpg)
+![Artista3](https://i.ytimg.com/vi/3dscakGmOxg/maxresdefault.jpg =400x)
 
 - *Juan Luis Guerra*
 
-![Artista4](https://storage.googleapis.com/mmc-elcaribe-bucket/uploads/2020/02/ef9e184d-juan-luis-guerra-5e49bb7c48340.jpg)
+![Artista4](https://storage.googleapis.com/mmc-elcaribe-bucket/uploads/2020/02/ef9e184d-juan-luis-guerra-5e49bb7c48340.jpg =400x)
 
 Canciones_Fav:
 
@@ -48,19 +48,19 @@ Generos_NotFav:
 Artistas_NotFav:
 - El Alfa
 
-![Artista1](https://resources.tidal.com/images/58bb7890/a258/44fa/ba7f/f840ea269023/480x480.jpg)
+![Artista1](https://resources.tidal.com/images/58bb7890/a258/44fa/ba7f/f840ea269023/480x480.jpg =400x)
 
 - Anuel AA
 
-![Artista2](https://us.hola.com/images/0263-10ee84952e62-9682164bb90f-1000/square-480/anuel-aa-in-concert-brooklyn-ny.jpg)
+![Artista2](https://us.hola.com/images/0263-10ee84952e62-9682164bb90f-1000/square-480/anuel-aa-in-concert-brooklyn-ny.jpg =400x)
 
 - 6ix9ine
 
-![Artista3](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/tekashi-6ix9ine-attends-made-in-america-day-2-on-september-news-photo-1026349632-1543254246.jpg?crop=0.66667xw:1xh;center,top&resize=480:*)
+![Artista3](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/tekashi-6ix9ine-attends-made-in-america-day-2-on-september-news-photo-1026349632-1543254246.jpg?crop=0.66667xw:1xh;center,top&resize=480:* =400x)
 
 - Kiko el Crazy
 
-![Artista4](https://resources.tidal.com/images/8b53c9d7/986a/43cd/8320/cd25797ff00f/480x480.jpg)
+![Artista4](https://resources.tidal.com/images/8b53c9d7/986a/43cd/8320/cd25797ff00f/480x480.jpg =400x)
 
 
 Canciones_NotFav:
@@ -98,13 +98,13 @@ Generos_Derivados:
 
 Aplicaciones_Musicales:
 * Shazam
-![Shazam](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Shazam_logo.svg/1200px-Shazam_logo.svg.png)
+![Shazam](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Shazam_logo.svg/1200px-Shazam_logo.svg.png =400x)
 
 * Spotify
-![Spotify](https://logos-world.net/wp-content/uploads/2020/09/Spotify-Logo.png)
+![Spotify](https://logos-world.net/wp-content/uploads/2020/09/Spotify-Logo.png =400x)
 
 * Amazon Music
-![Amazon Music](https://www.pngkey.com/png/full/59-591869_amazon-music-logos-amazon-logo-vector-transparent-amazon.png)
+![Amazon Music](https://www.pngkey.com/png/full/59-591869_amazon-music-logos-amazon-logo-vector-transparent-amazon.png =400x)
 
 
 Grupos_Musicales_Fav:
