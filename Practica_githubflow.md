@@ -1,14 +1,32 @@
 
 Titulo: 
 
-
-
 Indice:
-
-
+1. Titulo
+2. Indice
+3. Contenido 
+4. Generos_Fav
+5. Artistas_Fav
+6. Canciones_Fav
+7. Generos_NotFav
+8. Artistas_NotFav
+9. Canciones_NotFav
+10. Instrumentos
+11. Generos_New(2000-2020)
+12. Generos_DomRep
+13. Primer_Musico
+14. Generos_Derivados
+15. Aplicaciones_Musicales
+16. Grupos_Musicales_Fav
+17. Grupos_Musicales_NotFav
+18. Canciones_Mas_Escuchadas(2020)
+19. Canciones_Mas_Escuchadas(Decada)
+20. Canciones_Mas_Largas
+21. Artistas_Mas_Famosos
+22. Opinion_Musical
 
 Contenido: 
-*Este documento trata sobre los generos musicales y sus exponentes, en los cuales encontrara desde   opiniones de generos musicales, hasta algunos compositores o datos interesantes y tambien gustos propios de nuestros escritores.*
+*Este documento trata sobre los generos musicales y sus exponentes, en los cuales encontrara desde opiniones de generos musicales, hasta algunos compositores o datos interesantes y tambien gustos propios de nuestros escritores.*
 
 
 Generos_Fav:
@@ -35,6 +53,11 @@ Artistas_Fav:
 
 Canciones_Fav:
 
+- **I hate everything about you**
+- **PRBLMS**
+- **Simon Says**
+- **Lonely Again**
+- **idfc**
 
 
 Generos_NotFav:
@@ -113,19 +136,12 @@ Grupos_Musicales_Fav:
 
 Grupos_Musicales_NotFav:
 
+- BTS ![](https://noticiassin.com/wp-content/uploads/2020/05/77811c29-1577177884_366989_1577178113_rrss_normal.jpg)
 
-- BTS 
-
-![](https://noticiassin.com/wp-content/uploads/2020/05/77811c29-1577177884_366989_1577178113_rrss_normal.jpg =400x)
-
-- One Direction 
-
-![](https://pyxis.nymag.com/v1/imgs/8ee/9b2/daf79f1b992e86ab665acbbef7f7082c71-13-one-direction-friends.2x.rsocial.w600.jpg =400x)
+- One Direction ![](https://pyxis.nymag.com/v1/imgs/8ee/9b2/daf79f1b992e86ab665acbbef7f7082c71-13-one-direction-friends.2x.rsocial.w600.jpg)
 
 - CNCO 
-
-![](https://cnnespanol.cnn.com/wp-content/uploads/2020/10/WhatsApp-Image-2020-10-02-at-01.00.21.jpeg?quality=100&strip=info&w=460&h=260&crop=1 =400x)
-
+![](https://cnnespanol.cnn.com/wp-content/uploads/2020/10/WhatsApp-Image-2020-10-02-at-01.00.21.jpeg?quality=100&strip=info&w=460&h=260&crop=1)
 
 Canciones_Mas_Escuchadas(2020):
 1. [Baby Shark Dance - Sing and Dance!](https://www.youtube.com/watch?v=XqZsoesa55w)
@@ -159,14 +175,13 @@ Canciones_Mas_Escuchadas(Decada):
  
 
 Canciones_Mas_Largas: 
-1. [The Sacrilege of Fatal Arms](https://www.youtube.com/watch?v=-JrXn8dyc1s&ab_channel=HernanRoccoR.)
-2. [The Whirlwind](https://www.youtube.com/watch?v=ryiegc12f3M&ab_channel=JustinJ.Marler)
-3. [Delìrium Còrdia](https://www.youtube.com/watch?v=9XNbA7NdE1Q&ab_channel=nicorido)
-4. [Devil Glitch](https://www.youtube.com/watch?v=10SnNfxjAI8&ab_channel=Edwardus)
-5. [Absolutego](https://www.youtube.com/watch?v=7IaqqCjBW4g&ab_channel=DoomedBeThyHeart)
+
+
 
 Artistas_Mas_Famosos:
 
 
 
 Opinion_Musical:
+
+***El kpop es lo mejor, el que opine lo contrario podemos caerno a golpe.***
