@@ -147,8 +147,11 @@ Canciones_Mas_Escuchadas(Decada):
  
 
 Canciones_Mas_Largas: 
-
-
+1. [The Sacrilege of Fatal Arms](https://www.youtube.com/watch?v=-JrXn8dyc1s&ab_channel=HernanRoccoR.)
+2. [The Whirlwind](https://www.youtube.com/watch?v=ryiegc12f3M&ab_channel=JustinJ.Marler)
+3. [Delìrium Còrdia](https://www.youtube.com/watch?v=9XNbA7NdE1Q&ab_channel=nicorido)
+4. [Devil Glitch](https://www.youtube.com/watch?v=10SnNfxjAI8&ab_channel=Edwardus)
+5. [Absolutego](https://www.youtube.com/watch?v=7IaqqCjBW4g&ab_channel=DoomedBeThyHeart)
 
 Artistas_Mas_Famosos:
 
