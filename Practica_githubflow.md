@@ -46,7 +46,20 @@ Generos_NotFav:
 - **Salsa**
 
 Artistas_NotFav:
+- El Alfa
 
+![Artista1](https://resources.tidal.com/images/58bb7890/a258/44fa/ba7f/f840ea269023/480x480.jpg)
+
+- Anuel AA
+
+![Artista2](https://us.hola.com/images/0263-10ee84952e62-9682164bb90f-1000/square-480/anuel-aa-in-concert-brooklyn-ny.jpg)
+
+- 6ix9ine
+
+![Artista3](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/tekashi-6ix9ine-attends-made-in-america-day-2-on-september-news-photo-1026349632-1543254246.jpg?crop=0.66667xw:1xh;center,top&resize=480:*)
+
+- Kiko el Crazy
+![Artista4](https://resources.tidal.com/images/8b53c9d7/986a/43cd/8320/cd25797ff00f/480x480.jpg)
 
 
 Canciones_NotFav:
