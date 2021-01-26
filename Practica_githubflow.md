@@ -46,7 +46,21 @@ Generos_NotFav:
 - **Salsa**
 
 Artistas_NotFav:
+- El Alfa
 
+![Artista1](https://resources.tidal.com/images/58bb7890/a258/44fa/ba7f/f840ea269023/480x480.jpg)
+
+- Anuel AA
+
+![Artista2](https://us.hola.com/images/0263-10ee84952e62-9682164bb90f-1000/square-480/anuel-aa-in-concert-brooklyn-ny.jpg)
+
+- 6ix9ine
+
+![Artista3](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/tekashi-6ix9ine-attends-made-in-america-day-2-on-september-news-photo-1026349632-1543254246.jpg?crop=0.66667xw:1xh;center,top&resize=480:*)
+
+- Kiko el Crazy
+
+![Artista4](https://resources.tidal.com/images/8b53c9d7/986a/43cd/8320/cd25797ff00f/480x480.jpg)
 
 
 Canciones_NotFav:
@@ -69,7 +83,9 @@ Generos_New(2000-2020):
 
 
 Generos_DomRep:
-
+- *El merengue*
+- *La bachata*
+- *El son*
 
 
 Primer_Musico:
@@ -97,6 +113,7 @@ Grupos_Musicales_Fav:
 
 Grupos_Musicales_NotFav:
 
+
 - BTS 
 
 ![](https://noticiassin.com/wp-content/uploads/2020/05/77811c29-1577177884_366989_1577178113_rrss_normal.jpg =400x)
@@ -108,7 +125,6 @@ Grupos_Musicales_NotFav:
 - CNCO 
 
 ![](https://cnnespanol.cnn.com/wp-content/uploads/2020/10/WhatsApp-Image-2020-10-02-at-01.00.21.jpeg?quality=100&strip=info&w=460&h=260&crop=1 =400x)
-
 
 
 Canciones_Mas_Escuchadas(2020):
@@ -143,8 +159,11 @@ Canciones_Mas_Escuchadas(Decada):
  
 
 Canciones_Mas_Largas: 
-
-
+1. [The Sacrilege of Fatal Arms](https://www.youtube.com/watch?v=-JrXn8dyc1s&ab_channel=HernanRoccoR.)
+2. [The Whirlwind](https://www.youtube.com/watch?v=ryiegc12f3M&ab_channel=JustinJ.Marler)
+3. [Delìrium Còrdia](https://www.youtube.com/watch?v=9XNbA7NdE1Q&ab_channel=nicorido)
+4. [Devil Glitch](https://www.youtube.com/watch?v=10SnNfxjAI8&ab_channel=Edwardus)
+5. [Absolutego](https://www.youtube.com/watch?v=7IaqqCjBW4g&ab_channel=DoomedBeThyHeart)
 
 Artistas_Mas_Famosos:
 
