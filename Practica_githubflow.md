@@ -1,14 +1,32 @@
 
 Titulo: 
 
-
-
 Indice:
-
-
+1. Titulo
+2. Indice
+3. Contenido 
+4. Generos_Fav
+5. Artistas_Fav
+6. Canciones_Fav
+7. Generos_NotFav
+8. Artistas_NotFav
+9. Canciones_NotFav
+10. Instrumentos
+11. Generos_New(2000-2020)
+12. Generos_DomRep
+13. Primer_Musico
+14. Generos_Derivados
+15. Aplicaciones_Musicales
+16. Grupos_Musicales_Fav
+17. Grupos_Musicales_NotFav
+18. Canciones_Mas_Escuchadas(2020)
+19. Canciones_Mas_Escuchadas(Decada)
+20. Canciones_Mas_Largas
+21. Artistas_Mas_Famosos
+22. Opinion_Musical
 
 Contenido: 
-*Este documento trata sobre los generos musicales y sus exponentes, en los cuales encontrara desde   opiniones de generos musicales, hasta algunos compositores o datos interesantes y tambien gustos propios de nuestros escritores.*
+*Este documento trata sobre los generos musicales y sus exponentes, en los cuales encontrara desde opiniones de generos musicales, hasta algunos compositores o datos interesantes y tambien gustos propios de nuestros escritores.*
 
 
 Generos_Fav:
@@ -34,11 +52,13 @@ Artistas_Fav:
 ![Artista4](https://storage.googleapis.com/mmc-elcaribe-bucket/uploads/2020/02/ef9e184d-juan-luis-guerra-5e49bb7c48340.jpg)
 
 Canciones_Fav:
+
 - **I hate everything about you**
 - **PRBLMS**
 - **Simon Says**
 - **Lonely Again**
 - **idfc**
+
 
 Generos_NotFav:
 
@@ -163,3 +183,5 @@ Artistas_Mas_Famosos:
 
 
 Opinion_Musical:
+
+***El kpop es lo mejor, el que opine lo contrario podemos caerno a golpe.***
