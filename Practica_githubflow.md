@@ -124,7 +124,7 @@ Grupos_Musicales_NotFav:
 
 - CNCO 
 
-![](https://cnnespanol.cnn.com/wp-content/uploads/2020/10/WhatsApp-Image-2020-10-02-at-01.00.21.jpeg?quality=100&strip=info&w=460&h=260&crop=1 =400x)
+![](https://cnnespanol.cnn.com/wp-content/uploads/2020/10/WhatsApp-Image-2020-10-02-at-01.00.21.jpeg?quality=100&strip=info&w=460&h=260&crop=1 width=400x)
 
 
 Canciones_Mas_Escuchadas(2020):
