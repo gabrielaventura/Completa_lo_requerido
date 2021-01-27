@@ -121,13 +121,14 @@ Generos_Derivados:
 
 Aplicaciones_Musicales:
 * Shazam
-![Shazam](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Shazam_logo.svg/1200px-Shazam_logo.svg.png =400x)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Shazam_logo.svg/1200px-Shazam_logo.svg.png
+" width="400">
 
 * Spotify
-![Spotify](https://logos-world.net/wp-content/uploads/2020/09/Spotify-Logo.png =400x)
+<img src="https://logos-world.net/wp-content/uploads/2020/09/Spotify-Logo.png" width="400">
 
 * Amazon Music
-![Amazon Music](https://www.pngkey.com/png/full/59-591869_amazon-music-logos-amazon-logo-vector-transparent-amazon.png =400x)
+<img src="https://www.pngkey.com/png/full/59-591869_amazon-music-logos-amazon-logo-vector-transparent-amazon.png" width="400">
 
 
 Grupos_Musicales_Fav:
