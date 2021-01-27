@@ -113,7 +113,7 @@ Generos_DomRep:
 
 Primer_Musico:
 #### Franz Liszt
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Franz_Liszt_by_Nadar%2C_March_1886.png" width="400">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Franz_Liszt_by_Nadar%2C_March_1886.png/220px-Franz_Liszt_by_Nadar%2C_March_1886.png" width="400">
 
 
 Generos_Derivados:
@@ -143,6 +143,8 @@ Grupos_Musicales_NotFav:
 
 - CNCO 
 ![](https://cnnespanol.cnn.com/wp-content/uploads/2020/10/WhatsApp-Image-2020-10-02-at-01.00.21.jpeg?quality=100&strip=info&w=460&h=260&crop=1)
+
+
 
 Canciones_Mas_Escuchadas(2020):
 1. [Baby Shark Dance - Sing and Dance!](https://www.youtube.com/watch?v=XqZsoesa55w)
