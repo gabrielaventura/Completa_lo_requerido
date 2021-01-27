@@ -97,7 +97,17 @@ Grupos_Musicales_Fav:
 
 Grupos_Musicales_NotFav:
 
+-BTS 
 
+<img src= https://noticiassin.com/wp-content/uploads/2020/05/77811c29-1577177884_366989_1577178113_rrss_normal.jpg  width= 400x>
+
+- One Direction 
+
+<img src= https://pyxis.nymag.com/v1/imgs/8ee/9b2/daf79f1b992e86ab665acbbef7f7082c71-13-one-direction-friends.2x.rsocial.w600.jpg width= 400x>
+
+- CNCO 
+
+<img src= https://www.godominicanrepublic.com/wp-content/uploads/2019/11/cnco-world-tour-2019.jpg  width= 400x>
 
 Canciones_Mas_Escuchadas(2020):
 1. [Baby Shark Dance - Sing and Dance!](https://www.youtube.com/watch?v=XqZsoesa55w)
