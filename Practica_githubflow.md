@@ -71,9 +71,6 @@ Generos_NotFav:
 
 Artistas_NotFav:
 
-
-Artistas_NotFav:
-
 - #El Alfa
 
 <img  src="https://resources.tidal.com/images/58bb7890/a258/44fa/ba7f/f840ea269023/480x480.jpg"  width="400">
