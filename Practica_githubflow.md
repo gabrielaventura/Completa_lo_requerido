@@ -121,8 +121,7 @@ Generos_Derivados:
 
 Aplicaciones_Musicales:
 * Shazam
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Shazam_logo.svg/1200px-Shazam_logo.svg.png
-" width="400">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Shazam_logo.svg/1200px-Shazam_logo.svg.png" width="400">
 
 * Spotify
 <img src="https://logos-world.net/wp-content/uploads/2020/09/Spotify-Logo.png" width="400">
