@@ -112,7 +112,8 @@ Generos_DomRep:
 
 
 Primer_Musico:
-
+#### Franz Liszt
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Franz_Liszt_by_Nadar%2C_March_1886.png" width="400">
 
 
 Generos_Derivados:
