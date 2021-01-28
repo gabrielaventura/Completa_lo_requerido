@@ -29,8 +29,11 @@ Contenido:
 
 
 Generos_Fav:
-
-
+-**kpop**
+-**pop**
+-**reaggeton**
+-**bachata**
+-**baladas**
 
 Artistas_Fav:
 
