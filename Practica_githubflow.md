@@ -119,6 +119,10 @@ Primer_Musico:
 
 
 Generos_Derivados:
+ - blues rock
+ - punk
+ - pop rock
+ - rock alternatvio
 
 
 
