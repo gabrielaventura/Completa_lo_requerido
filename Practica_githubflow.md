@@ -145,6 +145,17 @@ Aplicaciones_Musicales:
 
 Grupos_Musicales_Fav:
 
+- Cigarettes After S.
+
+<img src="https://images.squarespace-cdn.com/content/v1/540cd7e4e4b0b83340ad9dd8/1572578400638-5NY5LJENDJ5E6PBCFMLB/ke17ZwdGBToddI8pDm48kCHEb2AGQaEliYR3vSq3DbRZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwJQfuxaixoI3UC-16p1TPEd8ZaNtfwQodZMD7Q8J4rPz1CNunpGT2AD3TjjJoHdR0/20190715_CigarettesAfterSex_EbruYildiz_388-2.jpg" width="400">
+
+- The Kills
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/97/The_Kills_Heaven_March_2011.jpg" width="400">
+
+- The Carters
+
+<img src="https://resources.tidal.com/images/d9dee9ac/a5ca/400a/b286/1936e840be55/480x480.jpg" width="400">
 
 
 Grupos_Musicales_NotFav:
@@ -160,6 +171,8 @@ Grupos_Musicales_NotFav:
 - CNCO 
 
 <img src= https://www.godominicanrepublic.com/wp-content/uploads/2019/11/cnco-world-tour-2019.jpg  width= 400x>
+
+
 
 
 
