@@ -149,7 +149,7 @@ Grupos_Musicales_Fav:
 
 Grupos_Musicales_NotFav:
 
--BTS 
+- BTS 
 
 <img src= https://noticiassin.com/wp-content/uploads/2020/05/77811c29-1577177884_366989_1577178113_rrss_normal.jpg  width= 400x>
 
