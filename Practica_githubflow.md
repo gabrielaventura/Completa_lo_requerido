@@ -1,4 +1,5 @@
-Titulo: ## Generos musicales y sus exponentes
+Titulo:
+##  Generos musicales y sus exponentes
 
 Indice:
 1. Titulo
