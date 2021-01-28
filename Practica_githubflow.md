@@ -92,6 +92,12 @@ Artistas_NotFav:
 
 Canciones_NotFav:
 
+- [despacito](https://youtu.be/kJQP7kiw5Fk)
+- [diabla](https://www.youtube.com/watch?v=OIGczuCdWQY)
+- [dakiti](https://www.youtube.com/watch?v=TmKh7lAwnBI)
+- [robbery](https://www.youtube.com/watch?v=iI34LYmJ1Fs)
+- [lucid dreams](https://www.youtube.com/watch?v=mzB1VGEGcSU)
+
 Instrumentos:
 + **Batería**
 + **Bajo eléctrico**
