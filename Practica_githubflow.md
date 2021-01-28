@@ -193,8 +193,20 @@ Canciones_Mas_Largas:
 
 
 Artistas_Mas_Famosos:
+- **Michael Jackson**
+<img src= "https://i1.wp.com/wipy.tv/wp-content/uploads/2019/10/Michael-Jackson-revive-en-musical.jpg?w=1000&ssl=1" width=400px>
 
+- **Freddie Mercury**
+<img src= "https://www.latercera.com/resizer/yTnT8shoWDdD9QbYN_NWxbGFUis=/900x600/smart/arc-anglerfish-arc2-prod-copesa.s3.amazonaws.com/public/KQ7MJEASCFFKTDLKCFULWF43FU.jpg" width=400px>
 
+- **Bon Jovi**
+<img src= "https://lacarnemagazine.com/wp-content/uploads/2020/02/jon-bon-jovi-web.jpg" width=400px>
+
+- **John Lennon**
+<img src= "https://www.liderempresarial.com/wp-content/uploads/2019/10/cropped-Walls_Bridges_1974_Gruen_JohnLennon-home-slider-min-750x375.jpg" width=400px>
+
+- **Bob Marley**
+<img src= "https://www.mondosonoro.com/wp-content/uploads/2016/02/bob-marley-.jpg" width=400px>
 
 Opinion_Musical:
 
