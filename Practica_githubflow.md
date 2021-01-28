@@ -19,19 +19,19 @@ Artistas_Fav:
 
 - *Rick Astrey*
 
-![Artista1](https://imagenes.20minutos.es/uploads/imagenes/2020/06/19/rick-astley-en-su-cancion-never-gonna-give-you-up.gif)
+<img src="https://imagenes.20minutos.es/uploads/imagenes/2020/06/19/rick-astley-en-su-cancion-never-gonna-give-you-up.gif" width="400">
 
 - *Michael Jackson*
 
-![Artista2](https://www.mondosonoro.com/wp-content/uploads/2015/03/michael-jackson.jpg)
+<img src="https://www.mondosonoro.com/wp-content/uploads/2015/03/michael-jackson.jpg" width="400">
 
 - *Sandy & Papo*
 
-![Artista3](https://i.ytimg.com/vi/3dscakGmOxg/maxresdefault.jpg)
+<img src="https://i.ytimg.com/vi/3dscakGmOxg/maxresdefault.jpg" width="400">
 
 - *Juan Luis Guerra*
 
-![Artista4](https://storage.googleapis.com/mmc-elcaribe-bucket/uploads/2020/02/ef9e184d-juan-luis-guerra-5e49bb7c48340.jpg)
+<img src="https://storage.googleapis.com/mmc-elcaribe-bucket/uploads/2020/02/ef9e184d-juan-luis-guerra-5e49bb7c48340.jpg" width="400">
 
 Canciones_Fav:
 
